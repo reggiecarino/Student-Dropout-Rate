@@ -6,7 +6,7 @@ This project develops a machine learning model to predict whether learners will 
 
 ## Dataset
 
-- Source: Kaggle
+- Source: Kaggle https://www.kaggle.com/datasets/patelris/smart-learning-recommendation-dataset/data
 - 4,000 learner records
 - 25 variables
 
